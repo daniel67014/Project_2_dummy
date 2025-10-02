@@ -1,12 +1,14 @@
 ---
 name: User Story Template
 about: A template for basic user stories
-title: 'USER STORY: Project Overlord'
+title: 'USER STORY: <your title'
 labels: ''
 assignees: ''
 
 ---
 
-As a: Data Scientist
-I can: Do stuff
-So that: data can be useful
+As a: ROLE
+
+I can: CAPABILITY
+
+So that: RECEIVED BENEFIT
